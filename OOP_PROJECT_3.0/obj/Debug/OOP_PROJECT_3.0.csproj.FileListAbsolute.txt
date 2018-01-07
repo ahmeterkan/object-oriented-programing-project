@@ -1,0 +1,23 @@
+C:\Users\hamur\Desktop\oop dönem projesi\OOP_PROJECT_3.0\OOP_PROJECT_3.0\bin\Debug\OOP_PROJECT_3.0.exe.config
+C:\Users\hamur\Desktop\oop dönem projesi\OOP_PROJECT_3.0\OOP_PROJECT_3.0\bin\Debug\OOP_PROJECT_3.0.exe
+C:\Users\hamur\Desktop\oop dönem projesi\OOP_PROJECT_3.0\OOP_PROJECT_3.0\bin\Debug\OOP_PROJECT_3.0.pdb
+C:\Users\hamur\Desktop\oop dönem projesi\OOP_PROJECT_3.0\OOP_PROJECT_3.0\obj\Debug\OOP_PROJECT_3.0.csprojResolveAssemblyReference.cache
+C:\Users\hamur\Desktop\oop dönem projesi\OOP_PROJECT_3.0\OOP_PROJECT_3.0\obj\Debug\OOP_PROJECT_3._0.Properties.Resources.resources
+C:\Users\hamur\Desktop\oop dönem projesi\OOP_PROJECT_3.0\OOP_PROJECT_3.0\obj\Debug\OOP_PROJECT_3.0.csproj.GenerateResource.Cache
+C:\Users\hamur\Desktop\oop dönem projesi\OOP_PROJECT_3.0\OOP_PROJECT_3.0\obj\Debug\OOP_PROJECT_3.0.exe
+C:\Users\hamur\Desktop\oop dönem projesi\OOP_PROJECT_3.0\OOP_PROJECT_3.0\obj\Debug\OOP_PROJECT_3.0.pdb
+C:\Users\hamur\Desktop\oop dönem projesi\OOP_PROJECT_3.0\OOP_PROJECT_3.0\obj\Debug\OOP_PROJECT_3._0.frmSuperMarketUygulaması.resources
+C:\Users\hamur\Desktop\oop dönem projesi\OOP_PROJECT_3.0\OOP_PROJECT_3.0\obj\Debug\OOP_PROJECT_3._0.frmMarketIslemleri.resources
+C:\Users\hamur\Desktop\oop dönem projesi\OOP_PROJECT_4.0\OOP_PROJECT_3.0\OOP_PROJECT_3.0\bin\Debug\OOP_PROJECT_3.0.exe.config
+C:\Users\hamur\Desktop\oop dönem projesi\OOP_PROJECT_4.0\OOP_PROJECT_3.0\OOP_PROJECT_3.0\obj\Debug\OOP_PROJECT_3.0.exe
+C:\Users\hamur\Desktop\oop dönem projesi\OOP_PROJECT_4.0\OOP_PROJECT_3.0\OOP_PROJECT_3.0\obj\Debug\OOP_PROJECT_3.0.pdb
+D:\2016-2017 2. Sınıf\1. Yarı yıl\oop dönem projesi\OOP_PROJECT_4.0\OOP_PROJECT_3.0\OOP_PROJECT_3.0\bin\Debug\OOP_PROJECT_3.0.exe.config
+D:\2016-2017 2. Sınıf\1. Yarı yıl\oop dönem projesi\OOP_PROJECT_4.0\OOP_PROJECT_3.0\OOP_PROJECT_3.0\bin\Debug\OOP_PROJECT_3.0.exe
+D:\2016-2017 2. Sınıf\1. Yarı yıl\oop dönem projesi\OOP_PROJECT_4.0\OOP_PROJECT_3.0\OOP_PROJECT_3.0\bin\Debug\OOP_PROJECT_3.0.pdb
+D:\2016-2017 2. Sınıf\1. Yarı yıl\oop dönem projesi\OOP_PROJECT_4.0\OOP_PROJECT_3.0\OOP_PROJECT_3.0\obj\Debug\OOP_PROJECT_3.0.csprojResolveAssemblyReference.cache
+D:\2016-2017 2. Sınıf\1. Yarı yıl\oop dönem projesi\OOP_PROJECT_4.0\OOP_PROJECT_3.0\OOP_PROJECT_3.0\obj\Debug\OOP_PROJECT_3._0.frmSuperMarketUygulaması.resources
+D:\2016-2017 2. Sınıf\1. Yarı yıl\oop dönem projesi\OOP_PROJECT_4.0\OOP_PROJECT_3.0\OOP_PROJECT_3.0\obj\Debug\OOP_PROJECT_3._0.frmMarketIslemleri.resources
+D:\2016-2017 2. Sınıf\1. Yarı yıl\oop dönem projesi\OOP_PROJECT_4.0\OOP_PROJECT_3.0\OOP_PROJECT_3.0\obj\Debug\OOP_PROJECT_3._0.Properties.Resources.resources
+D:\2016-2017 2. Sınıf\1. Yarı yıl\oop dönem projesi\OOP_PROJECT_4.0\OOP_PROJECT_3.0\OOP_PROJECT_3.0\obj\Debug\OOP_PROJECT_3.0.csproj.GenerateResource.Cache
+D:\2016-2017 2. Sınıf\1. Yarı yıl\oop dönem projesi\OOP_PROJECT_4.0\OOP_PROJECT_3.0\OOP_PROJECT_3.0\obj\Debug\OOP_PROJECT_3.0.exe
+D:\2016-2017 2. Sınıf\1. Yarı yıl\oop dönem projesi\OOP_PROJECT_4.0\OOP_PROJECT_3.0\OOP_PROJECT_3.0\obj\Debug\OOP_PROJECT_3.0.pdb
